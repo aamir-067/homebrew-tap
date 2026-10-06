@@ -5,8 +5,8 @@
 class Macscan < Formula
   desc "Read-only macOS security scanner for malware, stealers and persistence"
   homepage "https://github.com/aamir-067/macscan-cli"
-  url "https://github.com/aamir-067/macscan-cli/releases/download/v2.5.0/install-mac-triage.sh"
-  sha256 "ae3bd27b67d7c1f946461fcc22193732a64df4ef17e9387ee5d29195fbe01c23"
+  url "https://github.com/aamir-067/macscan-cli/releases/download/v2.5.1/install-mac-triage.sh"
+  sha256 "3ebbe33c7cd0e200d6b2b09073433740d80dae7bce66e87784a6a3fed975eaad"
   license "MIT"
 
   depends_on :macos
